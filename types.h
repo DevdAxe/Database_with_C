@@ -6,3 +6,7 @@ struct Types
 	int age;
 	char country[20];
 };
+
+struct Types registration[];
+
+int pplRegd = 0;
